@@ -2,7 +2,7 @@
 
 ## Hello, i'm a beginner Java developer
 
-
+<br>
 
 ### Languages and Tools
 
@@ -14,4 +14,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-111624?style=for-the-badge&logo=Bootstrap&logoColor=6F10EE)
 ![Sql](https://img.shields.io/badge/-Sql-111624?style=for-the-badge&logo=mysql&logoColor=007979)
 
-Follow Me
+### Follow Me
+
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-111624?style=for-the-badge&logo=VK&logoColor=007979)](https://vk.com/artemrodin95)
