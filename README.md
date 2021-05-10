@@ -2,8 +2,6 @@
 
 ## Hello, i'm a beginner Java developer
 
-<br>
-
 ### Languages and Tools
 
 ![Java](https://img.shields.io/badge/-Java-111624?style=for-the-badge&logo=java&logoColor=FFFFFF)
