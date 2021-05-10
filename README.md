@@ -17,3 +17,5 @@
 ### Follow Me
 
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-111624?style=for-the-badge&logo=VK&logoColor=007979)](https://vk.com/artemrodin95)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodin95&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
