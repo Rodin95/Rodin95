@@ -16,4 +16,4 @@
 
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-111624?style=for-the-badge&logo=VK&logoColor=007979)](https://vk.com/artemrodin95)
 
-[![Rodin95 GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodin95&show_icons=true&theme=dark)](https://github.com/Rodin95/github-readme-stats)
+![Rodin95 GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodin95&show_icons=true&theme=dark)]
